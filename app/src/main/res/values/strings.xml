@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bae</string>
+    <string name="title_activity_main">bae</string>
+    <string name="package_name">com.loretta.bae</string>
+    <string name="custom_url_scheme">com.loretta.bae</string>
+</resources>
